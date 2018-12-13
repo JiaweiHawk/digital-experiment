@@ -6,5 +6,5 @@
    - *in docx*
 - ### My code  
   - *by myself*
-- ### the finished code
-  - *by my group*
+- ### Group code
+  - *by my group* **(usually finished)**
